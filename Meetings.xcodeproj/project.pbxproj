@@ -19,6 +19,7 @@
 		2E255CA52495C03300B77315 /* MeetingScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E255CA42495C03300B77315 /* MeetingScheduler.swift */; };
 		2E255CA82495D6D000B77315 /* MeetingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E255CA62495D6CF00B77315 /* MeetingCell.swift */; };
 		2E255CA92495D6D000B77315 /* MeetingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E255CA72495D6CF00B77315 /* MeetingCell.xib */; };
+		2E860E59249EFD4A00CD40D2 /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E860E58249EFD4A00CD40D2 /* Util.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		2E255CA42495C03300B77315 /* MeetingScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingScheduler.swift; sourceTree = "<group>"; };
 		2E255CA62495D6CF00B77315 /* MeetingCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingCell.swift; sourceTree = "<group>"; };
 		2E255CA72495D6CF00B77315 /* MeetingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MeetingCell.xib; sourceTree = "<group>"; };
+		2E860E58249EFD4A00CD40D2 /* Util.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			children = (
 				2E255C8E2495071B00B77315 /* ViewController.swift */,
 				2E255CA42495C03300B77315 /* MeetingScheduler.swift */,
+				2E860E58249EFD4A00CD40D2 /* Util.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2E255C8F2495071B00B77315 /* ViewController.swift in Sources */,
+				2E860E59249EFD4A00CD40D2 /* Util.swift in Sources */,
 				2E255CA12495B64900B77315 /* MeetingsData.swift in Sources */,
 				2E255C9F2495B34800B77315 /* MeeetingsManager.swift in Sources */,
 				2E255CA52495C03300B77315 /* MeetingScheduler.swift in Sources */,
